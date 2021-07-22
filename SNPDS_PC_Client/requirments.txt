@@ -1,0 +1,9 @@
+shapely
+imgaug
+pyclipper
+lmdb
+tqdm
+numpy
+opencv-python
+pyqt5
+qtawesome
